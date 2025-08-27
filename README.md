@@ -87,7 +87,7 @@ Each model’s performance is shown using metrics and graphs
 
 Confusion matrices make it clear where misclassifications happen
 
-📜 Abstract (in simple words)
+📜 Abstract
 
 The Internet of Things (IoT) is rapidly expanding, connecting devices across homes, industries, and cities. However, this growth has also made IoT systems vulnerable to cyber threats such as Distributed Denial of Service (DDoS) attacks.
 
