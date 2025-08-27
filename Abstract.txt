@@ -1,7 +1,0 @@
-In today’s connected world, Internet of Things (IoT) devices are everywhere – from smart homes to industrial systems. But with this growth, they also face serious threats from Distributed Denial of Service (DDoS) attacks, which can disrupt networks and cause huge damage.
-
-This project focuses on building a machine learning-based solution to detect and mitigate DDoS attacks in IoT environments. The system takes raw network traffic data, pre-processes it, and then applies different ML models like Naive Bayes, Random Forest, SVM, KNN, XGBoost, and AdaBoost to classify attacks accurately.
-
-A simple Graphical User Interface (GUI) is designed using Python Tkinter, making the project interactive and easy to use. Users can upload datasets, preprocess them, train models, compare results, and even predict attacks on new test data. Performance metrics such as accuracy, precision, recall, F1-score, and confusion matrix are provided for each model, along with a comparison graph.
-
-The goal of this work is to show how machine learning can be effectively used for real-time IoT security, helping in early detection of malicious activities and improving network resilience.
