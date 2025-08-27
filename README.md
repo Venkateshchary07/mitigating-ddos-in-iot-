@@ -53,8 +53,8 @@ I trained all these models and compared which one works best for detecting DDoS 
 
 Clone the repo:
 
-git clone https://github.com/your-username/ddos-iot-detection.git
-cd ddos-iot-detection
+git clone https://github.com/Venkateshchary07/mitigating-ddos-in-iot-.git
+
 
 
 Install required libraries:
